@@ -1,0 +1,9 @@
+body {
+background: linear-gradient(#aaa0ff, #ffbc86) fixed;
+font-family: OCR A, OCR a, ocr A, ocr a, sans-serif;
+font-size: 18px;
+}
+h1 {
+color: #30f;
+text-align: center;
+}
